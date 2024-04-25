@@ -69,4 +69,4 @@ Como puedes ver, no es algo tan simple, solo tenemos que hacer un cambio rápido
 Normalmente usaríamos un <div>, pero React tiene lo que llamamos un fragmento, el cual podemos definir como <React.Fragment> o simplemente <>, usar el fragmento tiene sus ventajas, pero el mayor de todos es que reduce el consumo de recursos y el tamaño del DOM, haciendo que la página cargue más rápido y a comparación del <div>, permite que regresemos múltiples elementos de JSX.
 Regresemos a la página, como puedes ver, se han desplegado los dos elementos que definimos sin problema, y con esto puedes dar por terminado este primer laboratorio.
 
- ![image](https://github.com/Diego-spes/Labs/assets/74331292/5cd8cc0
+ ![image](https://github.com/Diego-spes/Labs/assets/74331292/5cd8cc0)
