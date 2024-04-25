@@ -1,3 +1,5 @@
+# Tercer laboratorio: Botones y Labels.
+
 Hasta ahora hemos visto como crear componentes que, en su mayoría, han sido estáticos, es decir, no cambian cuando lanzamos el sitio web. Para hacer que nuestro sitio tenga una forma de interactividad, iniciaremos con lo más simple, un botón que aumente un número.
 Iniciaremos con la declaración del botón y un label al que se le modificará su contenido al presionarlo, recuerda crear un nuevo archivo y el folder que le corresponderá.
 
