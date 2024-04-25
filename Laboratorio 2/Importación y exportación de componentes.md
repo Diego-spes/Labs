@@ -1,4 +1,5 @@
-Importación y Exportación de Componentes
+# Segundo laboratorio: Importación y Exportación de componentes.
+
 Ya sabemos que React nos permite usar componentes, pero cuando desarrollamos una aplicación, haremos uso de una gran cantidad de funciones y lo último que queremos es trabajar en un archivo con miles de líneas, para ello, refactorizaremos un poco nuestro código de tal forma que las funciones las tomaremos de otros archivos.
 Empecemos con la creación de un folder en la carpeta src al que llamaremos js, aquí guardaremos los archivos de JavaScript de laboratorios futuros, a continuación, crea otro folder, en este guardaras dos archivos JavaScript, los llamaremos greeting y response
 
