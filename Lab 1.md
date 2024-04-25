@@ -1,6 +1,4 @@
-# Labs
-
-Conociendo React
+# Primeros pasos
 
 React es una librería de JavaScript que se encarga de la vista de una aplicación web o móvil. Modifica el DOM (Document Object Model) de forma dinámica, es decir, nos permite hacer cambios en tiempo real a la vista de un archivo HTML, ahorrándonos tiempo ya que solo se volverá a renderizar el objeto a modificar y no la página completa.
 React también puede hacer uso de una extensión de sintaxis de JavaScript llamada JSX, la cual nos permite definir elementos de React como variables. JSX transforma texto formateado como HTML en un archivo de JavaScript en objetos que serán analizados por el renderizador para desplegarlos como elementos HTML.
